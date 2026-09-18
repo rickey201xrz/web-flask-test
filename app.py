@@ -1,8 +1,8 @@
 import os
 
 if __name__ == '__main__':
-    os.system("id")
-    os.system("ps -ef")
     while(True):
         print("Hello World!")
+        os.system("id")
+        os.system("ps -ef")
         sleep(10000)
