@@ -1,6 +1,5 @@
 import os
 
 if __name__ == '__main__':
-    while(True){
+    while(True):
         print("Hello World!")
-    }
